@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "97360000107",
+    "project_id": "chatiraqi-22c32",
+    "storage_bucket": "chatiraqi-22c32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97360000107:android:5f1480d691889ce0b52d2e",
+        "android_client_info": {
+          "package_name": "com.example.chatiraqi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "97360000107-ddahfseecjjs8gq9vibnp8cajp0rv9ks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9P4OLYbgWbU6-Uxw_QZwxfVUhv5xRMrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "97360000107-ddahfseecjjs8gq9vibnp8cajp0rv9ks.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
